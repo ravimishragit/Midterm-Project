@@ -11,7 +11,7 @@ https://github.com/mtobeiyf/keras-flask-deploy-webapp
 Team members:-
 1. Arnaldo
 2. Ravi Mishra
-3. David Kimaru
+3. Mark Kimaru Thagana
 4. Prasad GK
 5. Ritesh
 
